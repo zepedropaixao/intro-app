@@ -1,9 +1,9 @@
 <resources>
-    <string name="app_name">ThousandNetwork WOW</string>
+    <string name="app_name">Pedro Paixão - Intro</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="action_settings">Settings</string>
-    <string name="intro">Hi! My name is PEDRO AZEREDO PAIXÃO and this is my WOW application for Thousand Network - a simple anatomic analysis of myself. Please touch on the buttons on the right to know more about me!</string>
+    <string name="intro">Hi! My name is PEDRO AZEREDO PAIXÃO and this is a simple anatomic analysis of myself. Please touch on the buttons on the right to know more about me!</string>
 </resources>

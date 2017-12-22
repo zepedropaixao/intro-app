@@ -1,4 +1,4 @@
-package me.paixao.thousandnetworkwow;
+package me.paixao.intro;
 
 import org.junit.Test;
 

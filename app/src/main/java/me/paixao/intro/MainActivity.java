@@ -1,14 +1,14 @@
-package me.paixao.thousandnetworkwow;
+package me.paixao.intro;
 
 import android.os.Bundle;
 import android.support.design.widget.NavigationView;
 
-import me.paixao.thousandnetworkwow.fragments.BrainFragment;
-import me.paixao.thousandnetworkwow.fragments.EarFragment;
-import me.paixao.thousandnetworkwow.fragments.FootFragment;
-import me.paixao.thousandnetworkwow.fragments.HandFragment;
-import me.paixao.thousandnetworkwow.fragments.HeartFragment;
-import me.paixao.thousandnetworkwow.fragments.MainFragment;
+import me.paixao.intro.fragments.BrainFragment;
+import me.paixao.intro.fragments.EarFragment;
+import me.paixao.intro.fragments.FootFragment;
+import me.paixao.intro.fragments.HandFragment;
+import me.paixao.intro.fragments.HeartFragment;
+import me.paixao.intro.fragments.MainFragment;
 
 public class MainActivity extends BaseActivity
         implements NavigationView.OnNavigationItemSelectedListener {

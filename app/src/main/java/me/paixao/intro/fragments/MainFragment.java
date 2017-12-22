@@ -1,4 +1,4 @@
-package me.paixao.thousandnetworkwow.fragments;
+package me.paixao.intro.fragments;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -7,8 +7,8 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.LinearLayout;
 
-import me.paixao.thousandnetworkwow.MainActivity;
-import me.paixao.thousandnetworkwow.R;
+import me.paixao.intro.MainActivity;
+import me.paixao.intro.R;
 
 /**
  * Created by paixao on 13-11-2016.

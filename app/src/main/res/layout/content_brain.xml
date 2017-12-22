@@ -48,7 +48,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="I studied at Faculdade de Engenharia da Universidade do Porto (FEUP) where I got a master degree in Informatics and Computing Engineering (MIEIC). I always understood the power of networking with like minded people and because of that I was also part of the Student's Association and of FEUP's Traditional Musical Group of Students (Tuna de Engenharia da Universidade do Porto) " />
+                android:text="I studied at Faculdade de Engenharia da Universidade do Porto (FEUP) where I got a master degree in Informatics and Computing Engineering (MIEIC). I was also part of the Student's Association and of FEUP's Traditional Musical Group of Students (Tuna de Engenharia da Universidade do Porto) " />
 
         </LinearLayout>
 

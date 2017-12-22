@@ -1,4 +1,4 @@
-package me.paixao.thousandnetworkwow;
+package me.paixao.intro;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

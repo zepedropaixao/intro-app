@@ -1,11 +1,11 @@
-package me.paixao.thousandnetworkwow.fragments;
+package me.paixao.intro.fragments;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import me.paixao.thousandnetworkwow.R;
+import me.paixao.intro.R;
 
 /**
  * Created by paixao on 13-11-2016.

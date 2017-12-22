@@ -1,4 +1,4 @@
-package me.paixao.thousandnetworkwow.fragments;
+package me.paixao.intro.fragments;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;

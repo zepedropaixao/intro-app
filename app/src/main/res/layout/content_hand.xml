@@ -48,7 +48,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Currently I work at Infraspeak as Head of Mobile Development (hence the mobile app :) ). One of the reasons I decided to join this team is the same reason I would like to be part of Thousand Network - I want to be surrounded by like-minded people." />
+                android:text="Currently I work at Infraspeak as Head of Mobile Development." />
 
         </LinearLayout>
 

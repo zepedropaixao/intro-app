@@ -1,4 +1,4 @@
-package me.paixao.thousandnetworkwow;
+package me.paixao.intro;
 
 import android.content.ActivityNotFoundException;
 import android.content.Intent;
@@ -27,7 +27,7 @@ import com.google.android.gms.appindexing.AppIndex;
 import com.google.android.gms.appindexing.Thing;
 import com.google.android.gms.common.api.GoogleApiClient;
 
-import me.paixao.thousandnetworkwow.fragments.BaseFragment;
+import me.paixao.intro.fragments.BaseFragment;
 
 public class BaseActivity<T extends BaseFragment> extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
