@@ -156,7 +156,7 @@ public class BaseActivity<T extends BaseFragment> extends AppCompatActivity
     }
 
     public void callMe() {
-        Intent intent = new Intent(Intent.ACTION_DIAL, Uri.parse("tel:" + "00351914968571"));
+        Intent intent = new Intent(Intent.ACTION_DIAL, Uri.parse("tel:" + "000000000"));
         startActivity(intent);
     }
 
